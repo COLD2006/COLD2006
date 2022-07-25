@@ -3,8 +3,8 @@
 - Meu email de contato é rodriguez.silva@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender e programar novas linguagens.
 - 🌱 Eu estou aprendendo recentemente a programar linguagen JavaScripth e Scratch 
-- 💞️procuro colaborar em microsoft
-- 📫 how to reach me ...
+- 💞️ Procuro colaborar em microsoft
+- 📫 Como chegar ao meu falando sobre jogos
 
 <!---
 COLD2006/COLD2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
